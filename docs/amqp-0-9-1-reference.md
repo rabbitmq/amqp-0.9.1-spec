@@ -6,14 +6,12 @@ title: AMQP 0-9-1 Complete Reference Guide
     <div id="content-pane">
         <p>
             This page contains a complete reference to RabbitMQ's implementaton of version 0-9-1 of the AMQP specification. The
-            [original specification](/resources/specs/amqp0-9-1.xml) was published by the [AMQP WG](http://www.amqp.org) in 2008 and is made available under the
-            [AMQP license](http://www.amqp.org/legal/amqp-license).
+            original specification was published by the AMQP WG in 2008 and is made available under the
+            AMQP license. These files can be found under the <code>pdfs</code> and <code>xmls</code> directories.
         </p>
         <p>
-            Elsewhere on this site you can read details of [RabbitMQ's conformance to the specification](/docs/specification). RabbitMQ implements [several extensions](/docs/extensions) to the core specification that are
-            documented in this guide. The original and extended specification downloads can be found on the [protocol page](/amqp-0-9-1-protocol).
+            [RabbitMQ extensions](https://www.rabbitmq.com/docs/extensions) to AMQP 0-9-1 can be found on rabbitmq.com.
         </p>
-        <p>You may also be interested in our [Protocol and API Quick Reference](./amqp-0-9-1-quickref).</p>
 
 ### Protocol Information {#protocol-info}
 
