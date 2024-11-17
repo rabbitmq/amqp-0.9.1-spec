@@ -10,7 +10,7 @@ title: AMQP 0-9-1 Complete Reference Guide
             AMQP license. These files can be found under the <code>pdfs</code> and <code>xmls</code> directories.
         </p>
         <p>
-            [RabbitMQ extensions](https://www.rabbitmq.com/docs/extensions) to AMQP 0-9-1 can be found on rabbitmq.com.
+            <a href="https://www.rabbitmq.com/docs/extensions">RabbitMQ extensions to AMQP 0-9-1</a> are covered in RabbitMQ documentation.
         </p>
 
 ### Protocol Information {#protocol-info}
