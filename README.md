@@ -3,6 +3,10 @@
 This repository contains a number of AMQP 0-9-1-related pages
 that historically were a part of the RabbitMQ website.
 
+Some guides still can be found on the [RabbitMQ Conformity and Specifications](https://www.rabbitmq.com/docs/specification) page,
+in particular the [AMQP 0-9-1 Errata page](https://www.rabbitmq.com/amqp-0-9-1-errata).
+
+
 ## What's in This Repository
 
 ## PDFs
